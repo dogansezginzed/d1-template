@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "d1-template",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "acecb5a0-106b-494d-9e57-e2e88ee9016c",
+      "database_name": "d1-BorsaUltimate"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
